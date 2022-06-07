@@ -7,7 +7,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 2021-01-08
 ### Added
 - Versión inicial de código.
-# [1.1.0] - 2021-06-07
-### Added
-- Versión hotfix del codigo. 
+Ha sido realizado tests en el coodigo, tanto local como en AWS. Tambien fue realizado tests automatizados con el servido jenkins. 
 
