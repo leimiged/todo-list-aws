@@ -1,1 +1,3 @@
-# todo-list-aws
+ Desarrollo de un proyecto de integración (CI) y entrega continua (CD) de aplicaciones en Cloud. En este trabajo el alumno aplicará y desarrollará los conocimientos adquiridos a lo largo del curso.
+ 
+El objetivo del presente trabajo es que el alumno defina el SCM (Software Configuration Management) y realice un pipeline de integración y entrega continua de aplicaciones en la nube partiendo de un cambio de software base. Se abordarán hitos de implementación de scripts de automatización de la operativa, reporte para monitorización del estado del correcto funcionamiento, pruebas que respondan al espectro o tipología requerida en el ejercicio de certificación de la calidad de un software, así como ficheros de configuración de sandboxes o entornos aislados de validación de pruebas determinadas
